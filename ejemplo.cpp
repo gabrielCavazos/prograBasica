@@ -21,8 +21,8 @@ int main()
 {
     Articulo juegos[4];
 
-    cout << "TiEnDa De ViDeOjUeGoS";
 
+    cout << "Hola soy un nuevo cambio :)";
 
 
     cout << "\n1. agregar articulo: ";
