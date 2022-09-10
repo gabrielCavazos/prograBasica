@@ -24,6 +24,7 @@ int main()
 
     cout << "Hola soy un nuevo cambio :)";
 
+    cout<< "Menu de opciones :D";
 
     cout << "\n1. agregar articulo: ";
 
